@@ -1,6 +1,8 @@
 # TrafficLight-Project
 
-> https://gitlab.com/elissarf/trafficlight-project
+## Authors
+- Elissar Fadel
+- Dan Moraru
 
 This program simulates traffic light nodes accross a city,
 capturing motion or collisions on red lights, publishing the 
@@ -42,7 +44,3 @@ Ensures security all through out, by authorization with JWT tokens and signing a
 3. > python TrafficLight.py 
 
 (need to be in same folder where keys are recognised)
-
-## Contributors
-- Elissar Fadel
-- Dan Moraru
