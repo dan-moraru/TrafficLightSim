@@ -1,4 +1,4 @@
-# TrafficLight-Project
+# TrafficLightSim
 
 ## Authors
 - Elissar Fadel
