@@ -1,0 +1,24 @@
+# Ignore files and directories generated during development
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local development files and directories
+.env
+venv/
+node_modules/
+*.log
+
+# Ignore version control files
+.git
+.gitignore
+
+# Ignore Docker-specific files
+Dockerfile
+.dockerignore
+
+# Ignore any build artifacts
+/build
+/dist
+/*.egg-info
