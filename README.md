@@ -44,5 +44,5 @@ Ensures security all through out, by authorization with JWT tokens and signing a
 (need to be in same folder where keys are recognised)
 
 ## Contributors
-- Elissar Fadel `2134398`
-- Dan Moraru `2138261`
+- Elissar Fadel
+- Dan Moraru
